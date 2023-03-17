@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pessoa>
+    <nome>Kaynan Vieira Cardoso</nome>
+    <idade>20</idade>
+    <endereco>
+        <Rua>Rua José Honório do Canto</Rua>
+        <Numero>101</Numero>
+        <Bairro>Riograndina</Bairro>
+        <Cidade>Nova Friburgo</Cidade>
+        <Estado>Rio de Janeiro</Estado>
+        <CEP>28634-248</CEP>
+    </endereco>
+    <faculdade>
+        <Curso>Sistemas de Informação</Curso>
+        <instituicao>CEFET</instituicao>
+        <local>Nova Friburgo</local>
+    </faculdade>
+</pessoa>
+
+<!--Comentario-->
